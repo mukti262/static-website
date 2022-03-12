@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top_section {
+    height: 66vh;
+    
+    color: #fff;
+    align-items: center;
+}
+
+img {
+    height: 22em;
+    width: 22em;
+    background: transparent;
+}
+
+.mix {
+    background: linear-gradient(to right bottom, #4ddbff, #00ccff);
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+    color: #4ddbff;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: 300;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    color: #000;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+.card {
+    margin: 6em 4em;
+    border: 2px solid #00ccff;
+    border-radius: 50px 0 50px 0;
+}
+
+.btn {
+    background-color: #00ccff;
+    color: #fff;
+}
+
+#ourservices, #contactus {
+    background: linear-gradient(to right bottom, #4ddbff, #00ccff);
+    color: #fff;
+    padding: 1em;
+    font-weight: 500;
+}
+
+#aboutus, #faqs {
+    color: #00ccff;
+    padding: 1em;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    font-size: medium;
+}
+
+.list-group {
+    text-align: left;
+}
+
+.list-group-item {
+    border: 1px solid #00ccff;
+}
+
+.bolder {
+    font-weight: 800;
+}
+
+
+
